@@ -50,8 +50,8 @@
 
 <div align ="center">
 
-<img src="https://i.imgur.com/V5JgUoQ.jpeg"  alt ="image1" width="270" height ="585">
-<img src="https://imgur.com/M3QDkG0.jpeg"  alt ="image2" width="270" height = "585">
+<img src="https://i.imgur.com/MFVsR0P.jpg"  alt ="image1" width="270" height ="585">
+<img src="https://i.imgur.com/876dTvO.jpg"  alt ="image2" width="270" height = "585">
 
 </div>
 
@@ -60,9 +60,11 @@
     
 ### Contect INFO :
 
-**Name** : Rajat Singh
+**Name :** Rajat Singh
     
-**Gmail** : Rajatsingh072002@gmail.com
+**Gmail :** Rajatsingh072002@gmail.com
+    
+**Phone No. :** +91 86290-24385
     
 </div>
     
